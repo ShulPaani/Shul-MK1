@@ -38,4 +38,4 @@ All servos are successfully centered at **90°** and ready for integration into 
 ---
 
 ### 🚀 Next Step
-- Begin **mechanical assembly (base + shoulder joint)**  
+- Begin **mechanical assembly**  
