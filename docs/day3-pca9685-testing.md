@@ -45,8 +45,8 @@ With the arm physically assembled, Day 3 focused on bringing **Shul MK-1 to life
 ## 💻 Code
 
 ```cpp
-#include 
-#include 
+#include <Wire.h>
+#include <Adafruit_PWMServoDriver.h>
 
 Adafruit_PWMServoDriver pca = Adafruit_PWMServoDriver();
 
