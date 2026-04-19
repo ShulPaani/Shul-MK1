@@ -1,3 +1,5 @@
+
+
 # Day 3 — Servo Testing & Serial Control via PCA9685
 
 ## Overview
@@ -122,7 +124,37 @@ Open Arduino Serial Monitor at **9600 baud** and send commands:
 
 ## 📸 Photos/Videos
 
-> *(Add testing video or photos here)*
+> 
+> https://github.com/user-attachments/assets/094fc488-1984-4f30-84be-585e17740919
+>
+> https://github.com/user-attachments/assets/4a883fe6-9bec-47fe-84d6-8a33e531654c
+> 
+> https://github.com/user-attachments/assets/8d8d1b6d-c379-405c-8f36-e1f633eeab53
+> 
+> https://github.com/user-attachments/assets/8969c16e-1393-4764-8e39-82d73d77cde0
+> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
