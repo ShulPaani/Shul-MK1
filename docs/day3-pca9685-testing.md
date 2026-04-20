@@ -167,8 +167,7 @@ Open Arduino Serial Monitor at **9600 baud** and send commands:
 
 ## ⏭️ Next Steps — Day 4
 
-- Implement smooth interpolated motion between positions
-- Begin planning URDF file for ROS2 simulation
+- Implement motion control with potentiometers
 - Fine tune SERVO_MIN/SERVO_MAX per channel for accurate positioning
 
 ---
