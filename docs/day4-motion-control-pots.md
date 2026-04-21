@@ -106,9 +106,18 @@ pwm.setPWM() → Servo moves ✅
 
 ## 📸 Photos/Videos
 
-> *(Add potentiometer control demo video here)*
+
+https://github.com/user-attachments/assets/d2c6fa81-33e3-458d-b229-97fd927483b2
+
+
+
+
 
 ---
+
+
+
+
 
 ## ⚠️ Known Issues
 
