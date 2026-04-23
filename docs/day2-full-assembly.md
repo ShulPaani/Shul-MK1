@@ -1,7 +1,7 @@
 # Day 2 — Full Assembly of Shul MK-1
 
 ## Overview
-Today marked a major milestone — the **Shul MK-1 6 DOF robotic arm** was fully assembled for the first time. After weeks of CAD design in Fusion 360 and 3D printing in PET, all components came together into a working physical structure.
+Today marked a major milestone — the **Shul MK-1 6 DOF robotic arm** was fully assembled for the first time. After weeks of CAD design in Fusion 360 and 3D printing in PETG, all components came together into a working physical structure.
 
 ---
 
