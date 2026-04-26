@@ -1,4 +1,4 @@
-# Day 3 — Manual 4-DOF Control via Potentiometers
+# Day 4 — Manual 4-DOF Control via Potentiometers
 
 ## Overview
 Day 4 introduced **real-time manual control** of Shul MK-1 using 4 potentiometers — one per joint. Each potentiometer directly maps to a servo channel on the PCA9685, allowing intuitive physical control of the arm's 4 primary joints. The system runs on **Arduino Nano** powered by the **SMPS 5V 5A** supply.
