@@ -3,7 +3,7 @@
 # Day 3 — Servo Testing & Serial Control via PCA9685
 
 ## Overview
-With the arm physically assembled, Day 3 focused on bringing **Shul MK-1 to life electronically**. All 5 active servo motors were tested using the **PCA9685 16-channel PWM driver** wired to an **Arduino**. A serial command interface was implemented to control each joint independently in real time.
+With the arm physically assembled, Day 3 focused on bringing **Shul MK-1 to life electronically**. All 5 active servo motors were tested using the **PCA9685 16-channel PWM driver** wired to an **Arduino**. A serial command interface was implemented to control each joint independently in real time
 
 ---
 
