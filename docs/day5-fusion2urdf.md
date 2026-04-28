@@ -7,7 +7,7 @@ Today marks the official start of my ROS2 journey with the Shul MK-1 robotic arm
 - ✅ Converted Fusion 360 assembly to URDF format
 - ✅ Exported all links as STL meshes
 - ✅ Configured joint parameters and transforms
-- ✅ Implemented 5 DOF (gripper coming soon!)
+- ✅ Implemented 5 DOF (gripper coming soon!
 
 ## 🗂️ Project Structure
 <img width="383" height="285" alt="Screenshot 2026-04-24 012016" src="https://github.com/user-attachments/assets/3fd10d5d-cd89-4a5d-bd7d-02ed31ca9363" />
